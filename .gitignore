@@ -1,0 +1,23 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Runtime SQLite database and backups
+Data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Build/publish output
+publish/
+*.nupkg
+
+# OS/editor files
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
